@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.qa/
+.env
+.env.*
+!.env.example
+docs/preview-*.png
+pnpm-lock.yaml
+pnpm-workspace.yaml
