@@ -8,7 +8,7 @@ Aplicație educațională interactivă în limba română, cu un stil matematic 
 - Scenă cu bile și cutii, mutare manuală, redare și parcurgerea distribuțiilor distincte.
 - Tabel cu numere Stirling de speța a II-a și totaluri Bell.
 - Tabel cu partiții întregi în exact k sau cel mult k părți.
-- Calcule BigInt, convenții explicite pentru zero, navigare prin tastatură și reduced-motion.
+- Calcule BigInt; convenții explicite pentru zero, navigare prin tastatură și reduced-motion.
 
 ## Pornire locală
 
